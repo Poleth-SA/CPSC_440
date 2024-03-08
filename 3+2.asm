@@ -1,5 +1,5 @@
 
-# Name Poleth Salmeron Acosta CPSC 440
+# Name Poleth CPSC 440
 # Simple Assembly program to add 3 + 2
     .data                   # Data section for storing constants and variables
 result_msg:     .asciiz "The result is: "   # Message to be printed
