@@ -1,6 +1,9 @@
 # CS-440
 Programming Homework/Project for Computer Architecture Class
 
+##The file provided by professor reads as follow##
+
+
 **Computer Architecture CS440**
 Programs should be executable on instructor machine.
 Submit the program text. Do not submit images of the program.
