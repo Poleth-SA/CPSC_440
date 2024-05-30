@@ -1,7 +1,7 @@
 # CS-440
 Programming Homework/Project for Computer Architecture Class
 
-##The file provided by professor reads as follow##
+## The file provided by professor reads as follow ##
 
 
 **Computer Architecture CS440**
