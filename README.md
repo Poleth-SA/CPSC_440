@@ -1,5 +1,5 @@
 # CS-440
-Programming Homework/Project for Computer Architecture Class
+Programming Homework/Project for Computer Architecture Class, this course was also a great practice using Assembly language
 
 ## The file provided by professor reads as follow ##
 
