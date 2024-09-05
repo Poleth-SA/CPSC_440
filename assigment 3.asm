@@ -1,4 +1,4 @@
-#Assigment 3 Poleth Salmeron Acosta
+#Assigment 3 Poleth
 
 # Data Section
         .data

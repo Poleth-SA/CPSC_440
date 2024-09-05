@@ -1,4 +1,4 @@
-# Name: Poleth Salmeron Acosta CPSC 440
+# Name: Poleth CPSC 440
 #A simple Assembly Language program to put a Hexadecimal immediate in Register $8, then OR it with a different immediate value. Place the result in $9
     .text
     .globl main
